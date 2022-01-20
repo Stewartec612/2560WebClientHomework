@@ -1,0 +1,56 @@
+#page-title{
+    text-shadow: 4px 4px black;
+}
+
+body{
+    background: darkcyan ;
+}
+h1{
+    text-align: center;
+    color: goldenrod;
+}
+h2{
+    text-shadow: 3px 3px black;
+    color: goldenrod;
+
+}
+p{
+    text-shadow: 2px 2px black;
+    color: whitesmoke;
+
+}
+a{
+    color: yellow;
+}
+#favorite-animal1{
+    background-color: saddlebrown;
+}
+#favorite-animal2{
+    background-color: saddlebrown;
+}
+#favorite-car{
+    background-color: saddlebrown;
+}
+.favorite-section{
+    border: 2px darkgoldenrod dotted;
+    margin: 3px ;
+}
+table,tr,th,td{
+    border: solid black;
+    border-collapse: collapse;
+}
+th{
+    background: grey;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px black;
+}
+tr:nth-child(even){
+    background: saddlebrown;
+    color: yellow;
+    text-shadow: 2px 2px black;
+}
+tr:nth-child(odd){
+    background: sandybrown;
+    color: yellow;
+    text-shadow: 2px 2px black;
+}
