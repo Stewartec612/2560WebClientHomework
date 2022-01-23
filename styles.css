@@ -3,11 +3,12 @@
 }
 
 body{
-    background: darkcyan ;
+    background: darkblue ;
+    font-family: Arial;
 }
 h1{
     text-align: center;
-    color: sandybrown;
+    color: goldenrod;
 }
 h2{
     text-shadow: 3px 3px black;
@@ -23,13 +24,13 @@ a{
     color: yellow;
 }
 #favorite-animal1{
-    background-color: saddlebrown;
+
 }
 #favorite-animal2{
-    background-color: saddlebrown;
+
 }
 #favorite-car{
-    background-color: saddlebrown;
+
 }
 .favorite-section{
     border: 2px darkgoldenrod dotted;
@@ -40,18 +41,19 @@ table,tr,th,td{
     border-collapse: collapse;
 }
 th{
-    background: grey;
+    background-color: grey;
     color: darkgoldenrod;
     text-shadow: 2px 2px black;
 }
 tr:nth-child(even){
-    background: saddlebrown;
-    color: yellow;
+    background-color: darkcyan;
+    color: lightgray;
     text-shadow: 2px 2px black;
 }
 tr:nth-child(odd){
-    background: sandybrown;
-    color: yellow;
+    background-color: royalblue;
+
+    color: lightgrey;
     text-shadow: 2px 2px black;
 }
 b{
