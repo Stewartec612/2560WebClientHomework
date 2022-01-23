@@ -7,7 +7,7 @@ body{
 }
 h1{
     text-align: center;
-    color: goldenrod;
+    color: sandybrown;
 }
 h2{
     text-shadow: 3px 3px black;
@@ -53,4 +53,11 @@ tr:nth-child(odd){
     background: sandybrown;
     color: yellow;
     text-shadow: 2px 2px black;
+}
+b{
+    color: goldenrod;
+}
+
+img{
+    border-radius: 8px;
 }
